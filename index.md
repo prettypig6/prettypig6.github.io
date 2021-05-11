@@ -1,37 +1,147 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<!-- saved from url=(0029)http://game.id87.com/index.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<meta http-equiv="pragma" content="no-cache"> 
+<meta http-equiv="Cache-Control" content="no-store, must-revalidate"> 
+<meta http-equiv="expires" content="0">
+<title>GouJiLe游戏</title>
+<meta name="keywords" content="">
+<meta name="description" content="GouJiLe游戏频道为您提供。">
+<meta name="viewport" content="width=device-width,initial-scale=1, minimum-scale=1.0, maximum-scale=1, user-scalable=no">
+<link rel="stylesheet" href="./img/index1/comm.css">
+<link rel="stylesheet" type="text/css" href="./img/index1/info.css" media="screen, projection">
+<script>
+document.domain = 'mp.9g.com';
+</script>
+<style type="text/css">
+<!--
+#Layer1 {
+	position:absolute;
+	width:200px;
+	height:115px;
+	z-index:21;
+	left: 52px;
+	top: 4px;
+}
+#Layer2 {
+	position:absolute;
+	width:60px;
+	height:41px;
+	z-index:21;
+	left: 60px;
+	top: 1px;
+}
+.STYLE1 {color: #FFCC00}
+.STYLE2 {font-size: 12px}
+-->
+</style>
+</head>
+<body>
 
-You can use the [editor on GitHub](https://github.com/prettypig6/prettypig6.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<article class="content">
+    <section class="app-intro"> <span class="mod-app-intro game_list"><a href="#"><img src="" width="100%" border="0"></a></span></section>
+</article>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+</script>
+	  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+	
+<script src="./img/index1/base.js"></script>
 
-```markdown
-Syntax highlighted code block
+<script>
+</script>
+<div>
+  <div align="center">
+    <p class="STYLE2">&nbsp;</p>
+    <p class="STYLE2">游戏免安装，开始即玩！关注微信公众平台有惊喜！</p>
+    <p class="STYLE2">&nbsp;</p>
+  </div>
+</div>
+<ul class="mod-app-intro game_list" id="j_game_list">
+  <li data-url="http://game2.id87.com/qingwa/wx.html?f=9g">
+    <figure><img src="icon/qmxzfzm.png" width="100" height="100">
+        <figcaption>
+          <h3 class="tit">跳球</h3>
+          <p>一起来跳球</p>
+          <p>热度：<span id="1" style="color:#FFCC00"></span>人在玩过。</p>
+        </figcaption>
+    <span class="btn btn-g" data-url="http://game2.id87.com/qingwa/wx.html?f=9g"><a href="games/BallToBall/game.html">开始玩</a></span></figure>
+  </li>
+  <li data-url="http://game2.id87.com/qingwa/wx.html?f=9g">
+    <figure><img src="icon/sqsdscj.png" width="500" height="290">
+        <figcaption>
+          <h3 class="tit">赛车</h3>
+          <p>一起赛车</p>
+          <p>热度：<span id="26" style="color:#FFCC00"></span>人在玩过。</p>
+        </figcaption>
+    <span class="btn btn-g" data-url="http://game2.id87.com/qingwa/wx.html?f=9g"><a href="games/Road_Race.io/index.html">开始玩</a></span></figure>
+  </li>
+  <li data-url="http://game2.id87.com/qingwa/wx.html?f=9g">
+    <figure><img src="icon/mnbyg.png" width="497" height="589">
+        <figcaption>
+          <h3 class="tit">神枪手</h3>
+          <p>一起开火</p>
+          <p>热度：<span id="37" style="color:#FFCC00"></span>人在玩过。</p>
+        </figcaption>
+    <span class="btn btn-g" data-url="http://game2.id87.com/qingwa/wx.html?f=9g"><a href="games/Shot_Trigger/index.html">开始玩</a></span></figure>
+  </li>
+  </ul>
+	<p>&nbsp;</p>
+	<p><a href="http://wx.wsq.qq.com/261361729"><img src="./img/index1/ad.png" width="100%" border="0"></a>    </p>
+	<menu class="d-menu" style="display:none;"></menu>
+  <div class="ft-copy">
+  <p align="center"><span>©2014 GouJiLe游戏</span>  <a href="javascript:void(0);" sid="261361729" title="关注" class="wsqFollowDiv">关注</a> <script src="http://dzqun.gtimg.cn/quan/scripts/widgets/follow.js" charset="utf-8"></script> </div>
+</footer>
+<div style="display:none">
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Ffc3d1b16f12d4cf3bd05fde0de4fed15' type='text/javascript'%3E%3C/script%3E"));
+</script>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+</div> 
+<br>
+<br>
+<br>
+<style>
+#fix_footer {
+	-moz-box-shadow:0px 0px 11px #191919;
+	-webkit-box-shadow:0px 0px 11px #191919;
+	box-shadow:0px 0px 11px #191919;
+}
+#fix_footer_menu{
+	border-right:1px solid rgba(0, 0, 0, 0.4);
+	background: rgba(0, 0, 0, 0.1);
+	font-family: 黑体;
+}
+#fix_footer_menu_on {
+	border-right:1px solid rgba(0, 0, 0, 0.4);
+	background: rgba(0, 0, 0, 0.3);
+	font-family: 黑体;
+	background:#202020; /* Fallback color for old browsers */
+}
+</style>
+<!--  -->
+/* 修改每个游戏的虚拟人气*/
+<script>
+    var timestamp = (Date.parse(new Date())/1000) + (3900*5);
+    document.getElementById("a").innerHTML = timestamp%864000;
+</script>
 
-### Jekyll Themes
+<script>
+    var timestamp = (Date.parse(new Date())/1000) + (3701*7);
+    document.getElementById("1").innerHTML = timestamp%864000;
+</script>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/prettypig6/prettypig6.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<script>
+    var timestamp = (Date.parse(new Date())/1000) + (3602*8);
+    document.getElementById("2").innerHTML = timestamp%864000;
+</script>
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</body></html>
