@@ -1,0 +1,1 @@
+{"version":"LAYAMATERIAL:02","props":{"type":"Laya.SkyBoxMaterial","name":"Skybox5","renderStates":[{"cull":2,"blend":0,"srcBlend":1,"dstBlend":0,"depthWrite":true,"depthTest":515}],"textures":[{"name":"textureCube","path":"../Autumn5.ltc"}],"vectors":[{"name":"tintColor","value":[1,1,1,1]}],"defines":[],"renderQueue":1000,"exposure":0.5,"rotation":360}}

@@ -1,0 +1,1 @@
+{"type":"Scene","props":{"width":576,"runtime":"model/ShowView.ts","height":1024,"autoDestroyAtClosed":true},"compId":2,"child":[{"type":"Image","props":{"y":0,"x":0,"top":0,"skin":"ui/bg_1.png","right":0,"left":0,"bottom":0,"sizeGrid":"0,0,0,0,1"},"compId":3}],"loadList":["ui/bg_1.png"],"loadList3D":[]}

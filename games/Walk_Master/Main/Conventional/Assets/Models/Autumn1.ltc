@@ -1,0 +1,8 @@
+{
+	"front":"Autumn1_PositiveZ.png",
+	"back":"Autumn1_NegativeZ.png",
+	"left":"Autumn1_PositiveX.png",
+	"right":"Autumn1_NegativeX.png",
+	"up":"Autumn1_PositiveY.png",
+	"down":"Autumn1_NegativeY.png"
+}

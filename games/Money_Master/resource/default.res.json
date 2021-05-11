@@ -1,0 +1,182 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,share1_jpg,share2_jpg,share3_jpg,system_json,soundbad_mp3,soundfilp_mp3,soundgood_mp3,soundjinchao_mp3,soundmoney_mp3,soundpress_mp3,soundprewin_mp3,soundrandom_mp3,soundunlock_mp3,soundwarn_mp3,soundwin_mp3,numimage_fnt,numimage_png,texiaoguoguan1_json,texiaohuochai1_json,texiaoguoguan2_json,texiaohuochai2_json,texiaohuoyan2_json,texiaohuoyanlizi_json,texiaojiaqian_json,texiaoqianxiaoshi_json,texiaosuizhi_json,texiaosuizhi2_json,texiaoyan_json,gameall2_json,gameall1_json",
+			"name": "preload"
+		},
+		{
+			"keys": "loading2_png,loading1_png",
+			"name": "loading"
+		}
+	],
+	"resources": [
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/system/share1.jpg",
+			"type": "image",
+			"name": "share1_jpg"
+		},
+		{
+			"url": "assets/system/share2.jpg",
+			"type": "image",
+			"name": "share2_jpg"
+		},
+		{
+			"url": "assets/system/share3.jpg",
+			"type": "image",
+			"name": "share3_jpg"
+		},
+		{
+			"url": "assets/system/system.json",
+			"type": "sheet",
+			"name": "system_json",
+			"subkeys": "bg_tips_png,default-portrait_png,head_cycle_mask_png,head_square_mask_png,loading_indicator_png,rank_levelbg_png,share_challenge_head1_png,share_challenge_head2_png,share_challenge_head3_png,share_crown_png,sharehead_png"
+		},
+		{
+			"url": "assets/system/loading2.png",
+			"type": "image",
+			"name": "loading2_png"
+		},
+		{
+			"url": "assets/system/loading1.png",
+			"type": "image",
+			"name": "loading1_png"
+		},
+		{
+			"name": "soundbad_mp3",
+			"type": "sound",
+			"url": "assets/sound/soundbad.mp3"
+		},
+		{
+			"name": "soundfilp_mp3",
+			"type": "sound",
+			"url": "assets/sound/soundfilp.mp3"
+		},
+		{
+			"name": "soundgood_mp3",
+			"type": "sound",
+			"url": "assets/sound/soundgood.mp3"
+		},
+		{
+			"name": "soundjinchao_mp3",
+			"type": "sound",
+			"url": "assets/sound/soundjinchao.mp3"
+		},
+		{
+			"name": "soundmoney_mp3",
+			"type": "sound",
+			"url": "assets/sound/soundmoney.mp3"
+		},
+		{
+			"name": "soundpress_mp3",
+			"type": "sound",
+			"url": "assets/sound/soundpress.mp3"
+		},
+		{
+			"name": "soundprewin_mp3",
+			"type": "sound",
+			"url": "assets/sound/soundprewin.mp3"
+		},
+		{
+			"name": "soundrandom_mp3",
+			"type": "sound",
+			"url": "assets/sound/soundrandom.mp3"
+		},
+		{
+			"name": "soundunlock_mp3",
+			"type": "sound",
+			"url": "assets/sound/soundunlock.mp3"
+		},
+		{
+			"name": "soundwarn_mp3",
+			"type": "sound",
+			"url": "assets/sound/soundwarn.mp3"
+		},
+		{
+			"name": "soundwin_mp3",
+			"type": "sound",
+			"url": "assets/sound/soundwin.mp3"
+		},
+		{
+			"name": "numimage_fnt",
+			"type": "font",
+			"url": "assets/image/numimage.fnt"
+		},
+		{
+			"name": "numimage_png",
+			"type": "image",
+			"url": "assets/image/numimage.png"
+		},
+		{
+			"name": "texiaoguoguan1_json",
+			"type": "json",
+			"url": "assets/particle/texiaoguoguan1.json"
+		},
+		{
+			"name": "texiaohuochai1_json",
+			"type": "json",
+			"url": "assets/particle/texiaohuochai1.json"
+		},
+		{
+			"name": "texiaoguoguan2_json",
+			"type": "json",
+			"url": "assets/particle/texiaoguoguan2.json"
+		},
+		{
+			"name": "texiaohuochai2_json",
+			"type": "json",
+			"url": "assets/particle/texiaohuochai2.json"
+		},
+		{
+			"name": "texiaohuoyan2_json",
+			"type": "json",
+			"url": "assets/particle/texiaohuoyan2.json"
+		},
+		{
+			"name": "texiaohuoyanlizi_json",
+			"type": "json",
+			"url": "assets/particle/texiaohuoyanlizi.json"
+		},
+		{
+			"name": "texiaojiaqian_json",
+			"type": "json",
+			"url": "assets/particle/texiaojiaqian.json"
+		},
+		{
+			"name": "texiaoqianxiaoshi_json",
+			"type": "json",
+			"url": "assets/particle/texiaoqianxiaoshi.json"
+		},
+		{
+			"name": "texiaosuizhi_json",
+			"type": "json",
+			"url": "assets/particle/texiaosuizhi.json"
+		},
+		{
+			"name": "texiaosuizhi2_json",
+			"type": "json",
+			"url": "assets/particle/texiaosuizhi2.json"
+		},
+		{
+			"name": "texiaoyan_json",
+			"type": "json",
+			"url": "assets/particle/texiaoyan.json"
+		},
+		{
+			"name": "gameall2_json",
+			"type": "sheet",
+			"url": "assets/image/gameall2.json",
+			"subkeys": "bad4_png,game2_png,good1_png,gamehelp1_png,game3_png,good2_png,good3_png,bad2_png,game4_png,game5_png,bad3_png,bad1_png,good4_png,fensuiji_s_png,ziwaixian_png,qian_png,fensuiji_png,fangdajing_png,wuzi2_1_png,yikunqian_png,wuzi2_2_png,wuzi2_3_png,ziwaixianqian_png,zhengque_png,wuzi2_4_png,wuzi1_1_png,cuowu_png,wuzi1_2_png,yikunqian_s_png,zhezhouqian_png,zhengchangqian_png,yundou_png,m10_1_png,m10_0_png,m10_2_png,m10_3_png,m50_0_png,m50_1_png,m50_3_png,m50_2_png,m500_0_png,m500_1_png,m500_3_png,m500_2_png,m20_0_png,m20_1_png,m20_3_png,beimianqian_png,m20_2_png,m100_1_png,m100_0_png,m100_2_png,m100_3_png,m10_4_png,guitai_png,m500_4_png,zuanshi_png,m50_4_png,m100_4_png,jinchaokou_png,m20_4_png,boli_png,touzheqian_png,fensuiji5_png,fensuiji4_png,fensuiji1_png,fensuiji3_png,fensuiji2_png,touqian_png,tiao1_png,huijin_png,huijinqian_png,tiao2_png,huochai2_png,huochai3_png,huochai1_png,huoqian_png,huochaihe_png,huochai_png,zhizhen_png,adbg_png,shoplight_png"
+		},
+		{
+			"name": "gameall1_json",
+			"type": "sheet",
+			"url": "assets/image/gameall1.json",
+			"subkeys": "sub_png,heartadd_png,adbtn1_png,heartbg_png,adbtn2_png,overleft_png,overzhezhao_png,heart2_png,overheartbor_png,heart1_png,adtitle1_png,heartred_png,adtitle2_png,red_png,heartblack_png,maizuanshibg_png,gamebg_png,emoji3_png,emoji2_png,emoji1_png,moregame1_png,overbtn1_png,overtitle1_png,moregame2_png,moregame3_png,texiaohuoyanlizi2_png,texiaohuoyanlizi3_png,texiaohuoyanlizi1_png,texiaoguoguan_png,texiaosuizhi1_png,texiaoyan_png,texiaosuizhi3_png,texiaosuizhi2_png,texiaohuochai1_png,texiaohuochai2_png,texiaojiaqian2_png,texiaojiaqian3_png,texiaojiaqian1_png,texiaoqianxiaoshi_png,interbg0_png,tipsview_png,interbg_png,rankme_png,rankshare_png,rankbtn4_png,rankbtn2_png,rankbtn3_png,rankview1_png,rankmark_png,rankpeople_png,rankview3_png,rankbtn1_png,rankview2_png,rankbg_png,title_png,titlebtn3_png,titlebtn2_png,titlebtn1_png,titlebtn4_png"
+		}
+	]
+}
